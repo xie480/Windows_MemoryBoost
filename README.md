@@ -1,8 +1,6 @@
-# Windows_MemoryBoost
+# MemGuardian
 
 高性能 Windows 内存优化工具，支持自动后台监控与内存优化。
-
-仅支持 Windows 平台。
 
 ---
 
